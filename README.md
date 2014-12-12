@@ -1,4 +1,4 @@
-Eclipse-etude
+Eclipse etude
 =============
 
 Eclipse plugin to print fine lines making up a regular grid in text editors.
